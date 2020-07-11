@@ -27,8 +27,8 @@ My name is Calix, I'm a full-stack software engineer, and I love creating real-w
 * ✨ [Ano.js](https://anojs.com/), a free, open source web animation library that allows interactive, customizable web animations to be integrated into any website with just 2 lines of code!
 
 ## Let's get in contact!
-* Email: [me@calix.dev](mailto:me@calix.dev)
-* Instagram: [@calix_huang](https://instagram.com/calix_huang)
-* LinkedIn: [@calix-huang](https://linkedin.com/in/calix-huang)
-* Personal Website: [calix.dev](https://www.calix.dev/)
-* Blog: [blog.calix.dev](https://blog.calix.dev)
+* 📧 Email: [me@calix.dev](mailto:me@calix.dev)
+* 📷 Instagram: [@calix_huang](https://instagram.com/calix_huang)
+* 💼 LinkedIn: [@calix-huang](https://linkedin.com/in/calix-huang)
+* 😎 Personal Website: [calix.dev](https://www.calix.dev/)
+* 📝 Blog: [blog.calix.dev](https://blog.calix.dev)
