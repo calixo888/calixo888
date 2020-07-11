@@ -3,9 +3,9 @@
 My name is Calix, I'm a full-stack software engineer, and I love creating real-world applications! 
 
 ## About Me
-* Completely self-taught engineer
-* 📖 Homeschooled on an online independent study program
-* I love building useful and real-world applications that anyone can use!
+* 📖 Completely self-taught engineer
+* 🏠 Homeschooled on an online independent study program
+* 🛠 I love building useful and real-world applications that anyone can use!
 
 #### My Skills
 * Full-stack Development
