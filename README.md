@@ -12,14 +12,6 @@ My name is Calix, I'm a full-stack software engineer, and I love creating real-w
 * Front-end web design
 * UI Design
 
-#### Technical Skills
-* HTML/CSS/SCSS
-* Javascript
-* Python
-* Flask/Django
-* Node.js/Express
-* Next.js + React
-
 #### What I'm working on 
 * 🖥 [w3Hacks](https://w3hacks.com/), an online platform for anyone to learn industry-level software engineering skills through project-based learning, trial and error, and getting their hands dirty in code!
 * 🤖 [Bot Gang](https://botgang.tech/), a collection of the baddest, gnarliest, and most edgy bots you'll ever hear about, and it's all listed for anyone to use. We'll infiltrate your communities, do what our descriptions says we do, and vanish.
