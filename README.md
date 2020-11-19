@@ -15,15 +15,12 @@ My name is Calix, I'm a full-stack software engineer, and I love creating real-w
 * UI Design
 
 #### What I'm working on 
-* 🖥  [WebX Consulting](https://webxconsulting.com/), where we build beautiful, responsive, custom websites for all types of clients in a quick amount of time, and provide clients with membership tools to make their experience better!
-* 🤖  [Bot Gang](https://botgang.tech/), a collection of the baddest, gnarliest, and most edgy bots you'll ever hear about, and it's all listed for anyone to use. We'll infiltrate your communities, do what our descriptions says we do, and vanish.
-* 👨‍👨‍👦‍👦  [NPO Core](https://npocore.com/), your one-stop shop for all things nonprofits. Whether you’re finding partners, volunteering, or creating your own nonprofit, you’ll find something for you here on NPO Core.
+* 🖥  [Hours](https://hours.zone/), a free, real-time productivity tool that allows anyone to be productive with their friends.
 * ✨  [Ano.js](https://anojs.com/), a free, open source web animation library that allows interactive, customizable web animations to be integrated into any website with just 2 lines of code!
-* 🤫  A few upcoming startups!
 
 ## Let's get in contact!
 * 📧  Email: [me@calix.dev](mailto:me@calix.dev)
-* 📷  Instagram: [@calix_huang](https://instagram.com/calix_huang)
+* 📷  Instagram: [@calix_huang](https://instagram.com/calixo888)
 * 💼  LinkedIn: [@calix-huang](https://linkedin.com/in/calix-huang)
 * 😎  Personal Website: [calix.dev](https://www.calix.dev/)
 * 📝  Blog: [blog.calix.dev](https://blog.calix.dev)
