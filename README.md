@@ -1,5 +1,4 @@
-### Hey, I'm Calix! I like building stuff that people use.
+working in private repositories.
 
-Mostly working in private repositories.
-
-https://calix.dev | https://twitter.com/calixo888
+https://calix.dev
+https://twitter.com/calixo888
