@@ -1,3 +1,1 @@
-working in private repositories.
-
-https://twitter.com/calixo888
+working in private repositories. more info on my work at https://calix.dev
